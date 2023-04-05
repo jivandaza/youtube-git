@@ -1,0 +1,110 @@
+commit 6d6a6432d2708f90bd7a30ab5e3a418837342d58
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Wed Apr 5 07:31:12 2023 -0500
+
+    Agregando dos parrafos
+
+commit 67441908eb59f2ebbe725b0904128ee57bb8f2b1
+Merge: ba6c029 42c2b10
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Wed Apr 5 07:28:21 2023 -0500
+
+    Resolviendo conflicto en estaciones del año con fecha de inicio
+
+commit ba6c029598c8805d13059ba7848dce1c1e977a46
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Wed Apr 5 07:10:32 2023 -0500
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 42c2b10405056387a0e8a8dbc3210b272d2b54ba
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Wed Apr 5 07:10:32 2023 -0500
+
+    Agregando estaciones del año
+
+commit 0eabe8cdddd97cb32b53a1119927517d4bdaae12
+Merge: 3344854 dc55fff
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Wed Apr 5 07:03:34 2023 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit dc55ffff00922d208bd6dfe7625d3631c2299016
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Wed Apr 5 06:55:55 2023 -0500
+
+    Add index.js al index.html
+
+commit 334485432e5ba8ec7e799bd36decdeea88ba43e4
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Wed Apr 5 06:53:11 2023 -0500
+
+    Add style.css al index.html
+
+commit ac1d6c35da752cca82e24b476a711bf0bb8719ef
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Wed Apr 5 06:48:38 2023 -0500
+
+    Agregando style.css al index.html
+
+commit 3bdbc083699dc5d5b4dee8a26235c41693986cc5
+Merge: da4bcc7 49cb8ce
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Tue Apr 4 15:39:54 2023 -0500
+
+    Merge branch 'js'
+
+commit 49cb8cec66a53dce5fb1c7f12f061c7e442bb0ea
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Tue Apr 4 13:20:11 2023 -0500
+
+    Creacion index.js
+
+commit da4bcc7963a797847b259339263b5c48ce7461ff
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Tue Apr 4 12:24:31 2023 -0500
+
+    Creacion style.css
+
+commit 9c51afe9e7f927c1723034db36c43c761a6d18b3
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Tue Apr 4 12:19:04 2023 -0500
+
+    creacion de index.html
+
+commit e53e499686482bfa466c5c435ae08da99e3bd8e6
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Fri Dec 16 12:37:58 2022 -0500
+
+    Ignorando archivos .exe
+
+commit c37048d23f637d6550ddc232a67335124cae6ec5
+Author: Jossid Ivan Daza Lobo <joser1.jidl@gmail.com>
+Date:   Fri Dec 16 11:49:03 2022 -0500
+
+    Creando licencia de repositorio
+
+commit 49c081a3ea0e2d3e9290c5cdd81f088bd5c2ab74
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Fri Dec 16 11:42:37 2022 -0500
+
+    Agregando más contenido al README
+
+commit 3222979fccddb96e003db50dfbce888442a5b49e
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Fri Dec 16 11:30:12 2022 -0500
+
+    Editando titulo del archivo README
+
+commit 6f504c1ffc203bd52bda9b22a4bd02eb75917231
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Fri Dec 16 11:18:32 2022 -0500
+
+    Agregando contenido inicial al README
+
+commit 716c231d69d57cda6e5ddc6b9fdff4a7bd400071
+Author: Jossid Daza <joser1.jidl@gmail.com>
+Date:   Fri Dec 16 11:13:34 2022 -0500
+
+    Primer commit
